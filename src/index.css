@@ -214,15 +214,4 @@ main {
     font-size: .8rem;
     min-height: 12vh;
   }
-  .btn-contaner {
-    margin-top: 2vh;
-    margin-bottom: 0vh;
-  }
-  .btn-contaner {
-    width: 100%;
-  }
-  .prev-btn, .next-btn {
-    height: 30px;
-    width: 30px;
-  }
 }
