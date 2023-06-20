@@ -8,12 +8,20 @@ function App() {
 
   const nextPerson = () => {
     setIndex((current) => {
-      return current + 1
+      const newIndex = current + 1
+      if(newIndex > people.length - 1) {
+        return 0;
+      }
+      return newIndex
     })
   }
   const prePerson  = () => {
     setIndex((current) => {
-      return current - 1
+      const newIndex = current - 1;
+      if(newIndex < 0){
+        return people.length - 1;
+      }
+      return newIndex
     })
   }
 
