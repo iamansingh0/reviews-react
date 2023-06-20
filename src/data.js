@@ -4,7 +4,7 @@ const reviews = [
       name: 'susan smith',
       job: 'web developer',
       image: 'https://course-api.com/images/people/person-1.jpeg',
-      text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry.",
     },
     {
       id: 2,
