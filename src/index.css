@@ -200,7 +200,7 @@ main {
 @media screen and (max-width:400px) {
   .review {
     width: 80%;
-    margin-top: 24vh;
+    margin-top: 20vh;
   }
   .imageContainer{
     height: 120px;
@@ -211,7 +211,7 @@ main {
     width: 120px;
   }
   .info {
-    font-size: .9rem;
+    font-size: .8rem;
     min-height: 12vh;
   }
   .btn-contaner {
