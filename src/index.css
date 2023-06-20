@@ -167,22 +167,52 @@ main {
   }
 }
 
+@media screen and (max-width:450px) {
+  .review {
+    width: 80%;
+    margin-top: 24vh;
+  }
+  .imageContainer{
+    height: 120px;
+    width: 120px;
+  }
+  .person-img {
+    height: 120px;
+    width: 120px;
+  }
+  .info {
+    font-size: .8rem;
+    min-height: 12vh;
+  }
+  .btn-contaner {
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+  }
+  .btn-contaner {
+    width: 100%;
+  }
+  .prev-btn, .next-btn {
+    height: 30px;
+    width: 30px;
+  }
+}
+
 @media screen and (max-width:400px) {
   .review {
     width: 80%;
     margin-top: 24vh;
   }
   .imageContainer{
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
   }
   .person-img {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
   }
   .info {
-    font-size: .6rem;
-    min-height: 10vh;
+    font-size: .9rem;
+    min-height: 12vh;
   }
   .btn-contaner {
     margin-top: 2vh;
