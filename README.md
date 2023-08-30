@@ -1,2 +1,2 @@
 # reviews-react
--- text is for test purpose
+text is for test purpose
