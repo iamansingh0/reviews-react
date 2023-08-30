@@ -1,2 +1,2 @@
 # reviews-react
-this text is just for testing
+-- text is for test purpose
